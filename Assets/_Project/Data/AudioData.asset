@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4609139a85a4275a88e25135f86b038, type: 3}
+  m_Name: AudioData
+  m_EditorClassIdentifier: Gameplay::Sources.Runtime.Gameplay.Audio.AudioData
+  Mixer: {fileID: 24100000, guid: 0a70ade93e1f80deba2f43b414cbca2a, type: 2}
+  ButtonClick: {fileID: 8300000, guid: 57e6a45092a44fd49a197c3bc110b036, type: 3}
+  BookOpen: {fileID: 8300000, guid: 28f444b22673e0b46a7daa8ead836725, type: 3}
+  BookPageTurn: {fileID: 8300000, guid: 89a821bb291d4cf4d994848d66eb87ad, type: 3}
+  LeverPull: {fileID: 8300000, guid: bb7be334357eedd65a8f8ddeef58c8d7, type: 3}
+  DialogueOpen: {fileID: 8300000, guid: 39ee42986bdb7ef49a5434dec3464e4c, type: 3}
+  DialogueClose: {fileID: 8300000, guid: bd468767dc74bff44af14726fa123b5e, type: 3}
+  DialogueTextTick: {fileID: 8300000, guid: 67dfc0e44a972754fb0580d197e5a68e, type: 3}
+  TrainApproach: {fileID: 8300000, guid: f3c65c59f200ed1aebb23852ed4bd87d, type: 3}
+  TrainHit: {fileID: 8300000, guid: 49753482663e6bf4bb2747544a984b65, type: 3}
+  TimerTick: {fileID: 8300000, guid: 67dfc0e44a972754fb0580d197e5a68e, type: 3}
+  TimerAlarm: {fileID: 8300000, guid: 136ee6bc539c1d643981ca9074590e6c, type: 3}
+  PersonPickUp: {fileID: 8300000, guid: 69e3661c08e7db949a6cf6e9f1b64ec7, type: 3}
+  PersonPlace: {fileID: 8300000, guid: 9d6b5b3452fd79d41a64d1837d994535, type: 3}
+  PersonSwap: {fileID: 8300000, guid: 3adf200282ba6fc48b2f1f95b1d0943b, type: 3}
+  BloodSplat: {fileID: 8300000, guid: 6c9efc86730ed8e4584615c85b001b3b, type: 3}
+  FloatingTextPop: {fileID: 8300000, guid: 705d7e4080180634cb63271cbc548fd1, type: 3}
+  MarmaladeCount: {fileID: 8300000, guid: aeea66eda5b03a74db299cae91cbcc7a, type: 3}
+  RoundEnd: {fileID: 8300000, guid: b700869dd12ac54409daea56f14259fe, type: 3}

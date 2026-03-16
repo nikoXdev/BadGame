@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 608fbe7b2db04780a7f9a269398e1137, type: 3}
+  m_Name: VictoryDialogueData
+  m_EditorClassIdentifier: Gameplay::Sources.Runtime.Gameplay.DialogueData
+  <Contents>k__BackingField:
+  - I didn't expect you to get this far.
+  - Most conductors freeze up after the first few.
+  - You just kept <color=#FFD700><b>sorting.</b></color>
+  - I suppose that says something about you.
+  - I'm not sure what.
+  - But something.

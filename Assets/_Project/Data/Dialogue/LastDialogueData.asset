@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 608fbe7b2db04780a7f9a269398e1137, type: 3}
+  m_Name: LastDialogueData
+  m_EditorClassIdentifier: Gameplay::Sources.Runtime.Gameplay.DialogueData
+  <Contents>k__BackingField:
+  - My superiors are <shake>very interested</shake> in your performance.
+  - Every gummy you eliminate leaves behind <color=#FFD700><b>MARMALADE.</b></color>
+  - Collect <color=#FF6B00><b><size=130%>1234 MARMALADE</size></b></color> and I'll
+    <wiggle><color=#88FF88>personally</color></wiggle> ensure your release.
+  - <wave><color=#C0C0C0><i>The train won't wait. Get to work.</i></color></wave>

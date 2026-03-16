@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 608fbe7b2db04780a7f9a269398e1137, type: 3}
+  m_Name: PostDialogueData
+  m_EditorClassIdentifier: Gameplay::Sources.Runtime.Gameplay.DialogueData
+  <Contents>k__BackingField:
+  - <shake>Oh.</shake> You actually went through with it.
+  - <color=#C0C0C0><i>...One moment.</i></color>
+  - <wiggle><color=#FFD700>Right.</color></wiggle> I've just received a memo.
+  - Those were <color=#FFD700><b><size=120%>GUMMY BEARS.</size></b></color> Entirely
+    sugar-based.
+  - <wave><color=#88FF88>You've done nothing wrong.</color></wave>

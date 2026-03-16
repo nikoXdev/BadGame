@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4208eb4a5129453f976c4f0ed5eeb18d, type: 3}
+  m_Name: LitePinBoardData
+  m_EditorClassIdentifier: LitePinBoard.Editor::LitePinBoard.Sources.Editor.Data.PinBoardData
+  items:
+  - guid: 8690c87c798cf0b81a2f40953934252d
+    name: AllPeopleData
+    path: Assets/_Project/Data/People/AllPeopleData.asset
+    sceneHandle: 0
+    typeName: Sources.Runtime.Gameplay.Entities.AllPeopleData, Gameplay, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - guid: ed15c1520b7b23d4a88f5df03528a5ae
+    name: AudioData
+    path: Assets/_Project/Data/AudioData.asset
+    sceneHandle: 0
+    typeName: Sources.Runtime.Gameplay.Audio.AudioData, Gameplay, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - guid: 0f75615de24bd3099b82e5565e7d362a
+    name: LastDialogueData
+    path: Assets/_Project/Data/Dialogue/LastDialogueData.asset
+    sceneHandle: 0
+    typeName: Sources.Runtime.Gameplay.DialogueData, Gameplay, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  - guid: 3e6ba4eaa6459e90eb5735de1b31684a
+    name: Bootstrap
+    path: Assets/_Project/Scenes/Bootstrap.unity
+    sceneHandle: 0
+    typeName: UnityEditor.SceneAsset, UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  - guid: fc88582204655808885f71cb7f6b30ca
+    name: Victory
+    path: Assets/_Project/Scenes/Victory.unity
+    sceneHandle: 0
+    typeName: UnityEditor.SceneAsset, UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
